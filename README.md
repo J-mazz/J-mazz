@@ -1,9 +1,5 @@
 ![urandom](https://github.com/user-attachments/assets/aa9395ff-30c6-41a8-91d9-221fd1579d0f)
 
-## Portfolio Summary
-
-I am an undergraduate Computer Science student, with a focus on open-source development and robust solutions for security analysis and automation.
-
 ### Featured Projects
 
 **sys-scan-graph**  
