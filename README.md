@@ -1,3 +1,6 @@
-![urandom](https://github.com/user-attachments/assets/aa9395ff-30c6-41a8-91d9-221fd1579d0f)
 
 I’m a self-taught (largely) developer/student working on local-first security and analysis tools for Linux. Recently I’ve been focusing on a graph-based Linux security scanner with multi-surface coverage and MITRE-mapped outputs, a UI for more interactive analysis, Debian packaging (hopefully officially soon), so it’s actually shippable, and an ML pipeline to refine the graph-based features. I work mostly with Python, C++, and shell, and I’ve also built a monorepo-backed portfolio site (Mazzlabs.works) that includes a fully functional custom APT repository server at apt.mazzlabs.works for distributing packages and a fully functional custom mail server at mail.mazzlabs.works.
+
+
+![urandom](https://github.com/user-attachments/assets/aa9395ff-30c6-41a8-91d9-221fd1579d0f)
+
